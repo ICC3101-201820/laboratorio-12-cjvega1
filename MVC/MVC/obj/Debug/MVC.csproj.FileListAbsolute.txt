@@ -1,0 +1,10 @@
+c:\users\ing\source\repos\MVC\MVC\bin\Debug\MVC.exe.config
+c:\users\ing\source\repos\MVC\MVC\bin\Debug\MVC.exe
+c:\users\ing\source\repos\MVC\MVC\bin\Debug\MVC.pdb
+c:\users\ing\source\repos\MVC\MVC\obj\Debug\MVC.csprojResolveAssemblyReference.cache
+c:\users\ing\source\repos\MVC\MVC\obj\Debug\MVC.Form1.resources
+c:\users\ing\source\repos\MVC\MVC\obj\Debug\MVC.Properties.Resources.resources
+c:\users\ing\source\repos\MVC\MVC\obj\Debug\MVC.csproj.GenerateResource.Cache
+c:\users\ing\source\repos\MVC\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+c:\users\ing\source\repos\MVC\MVC\obj\Debug\MVC.exe
+c:\users\ing\source\repos\MVC\MVC\obj\Debug\MVC.pdb
